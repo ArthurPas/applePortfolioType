@@ -1,5 +1,5 @@
 import React, { useRef } from 'react'
-import {frameImg, frameVideo, imgMoi, resumePdf} from '../utils'
+import {imgMoi, resumePdf} from '../utils'
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap';
 import { animateWithGsap } from '../utils/animations';

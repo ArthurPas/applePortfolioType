@@ -1,6 +1,6 @@
 import hero from "/assets/images/hero.jpeg";
 
-export const heroImg = hero;
+
 import resume from "/assets/CV_Arthur_PASCAL.pdf";
 import hmv from "/assets/videos/hero.mp4";
 import smallmv from "/assets/videos/smallHero.mp4";
@@ -45,7 +45,7 @@ export const highlightFourthVideo = highlightFourthmv;
 export const exploreVideo = exploremv;
 export const frameVideo = framemv;
 
-export const appleImg = apple;
+
 export const searchImg = search;
 export const bagImg = bag;
 export const watchImg = watch;

@@ -1,4 +1,3 @@
-import { ALogoImg, bagImg, searchImg } from '../utils';
 import { navLists } from '../constants';
 
 const Navbar = () => {
