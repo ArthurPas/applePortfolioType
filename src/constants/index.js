@@ -1,12 +1,8 @@
 import {
-    blackImg,
-    blueImg,
     highlightFirstVideo,
     highlightFourthVideo,
     highlightSecondVideo,
     highlightThirdVideo,
-    whiteImg,
-    yellowImg,
 } from "../utils";
 
 export const navLists = ["Profile", "School journey", "Experiences", "Contact me"];
@@ -45,16 +41,4 @@ export const hightlightsSlides = [
         video: highlightFourthVideo,
         videoDuration: 12,
     },
-];
-
-
-
-
-
-export const footerLinks = [
-    "Privacy Policy",
-    "Terms of Use",
-    "Sales Policy",
-    "Legal",
-    "Site Map",
 ];
